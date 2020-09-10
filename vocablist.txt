@@ -1,0 +1,50 @@
+1. population                 
+26. autotroph
+2. community                   
+27. primary consumer
+3. abiotic factor               
+28. heterotroph
+4. biotic factor                 
+29. secondary consumer
+5. biosphere                   
+30. tertiary consumer
+6. population density             
+31. invasive species
+7. clumped dispersion             
+32. dominant species
+8. uniform dispersion             
+33. keystone species    
+9. random dispersion              
+34. decomposer
+10. r-strategist species          
+35. fungi
+11. k-strategist species           
+36. lichen
+12. competition                  
+37. moss
+13. niche                         
+38. the water cycle
+14. predation                    
+39. the carbon cycle
+15. camouflage                      
+40. the nitrogen cycle
+16. asposematic coloration          
+41. eutrophication
+17. mimicry                       
+42. acid rain
+18. herbivory                    
+43. pollution
+19. mutualism                  
+44. global warming
+20. commensalism              
+45. acidification
+21. parasitism                     
+46. chloroflurocarbons
+22. facilitation                 
+47. habitat
+23. food chain                
+48.  ectothermic
+24. producer                  
+49.  endothermic
+25. herbivore                  
+50.  symbiosis
