@@ -1,7 +1,3 @@
-from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.common.keys import Keys
 import time, json
 from PyDictionary import PyDictionary
 
@@ -10,12 +6,7 @@ slides = [
 ]
 
 dictionary = PyDictionary()
-"""options = Options()
-#options.headless = True
-options.headless = False
-driver = webdriver.Firefox(options=options)
 
-driver.get("https://www.merriam-webster.com")"""
 count = 0
 with open('vocablistout.txt', 'r') as vocabFile:
     while(True):
